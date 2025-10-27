@@ -7,5 +7,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      -name: Print greeting
-      run: "echo Hello, Pull Request!"
+      - name: Print greeting
+        run: "echo Hello, Pull Request!"

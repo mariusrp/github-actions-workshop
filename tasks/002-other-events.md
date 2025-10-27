@@ -21,8 +21,7 @@ Now it's crucial that we create a new Git branch for this change, since we want 
 workflow. If we commit directly to the `main` branch, there won't be a pull request to trigger the workflow, and as
 such, it won't run.
 
-> [!TIP]
-> If you're struggling to remember the syntax for creating a workflow, you can simply copy the content from the
+> [!TIP] If you're struggling to remember the syntax for creating a workflow, you can simply copy the content from the
 > previous lesson's `hello-world.yml` file and modify it to fit this lesson's requirements.
 
 1. Create a new branch:
